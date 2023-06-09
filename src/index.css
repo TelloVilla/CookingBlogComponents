@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(74, 107, 136);
+}
+
+
+.maker-btn {
+    margin-top: 10px;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.input-group {
+    margin: 10px;
+}
+
+.form-control[type=text] {
+    max-width: 350px;
+}
+.form-control[type=number] {
+    max-width: 100px;
+}
+
+button > * {
+    pointer-events: none;
+}
+
+.card {
+    max-width: 500px;
+}
+
+.card-img {
+    background-color: white;
+    image-rendering: pixelated;
+    image-rendering: optimizeSpeed;
+}
+
+
+.recipe-time {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+.recipe-title {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    background-color: #9B334F;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px 0px 10px 0px;
+}
+
+.recipe-placeholder {
+    text-align: center;
+}

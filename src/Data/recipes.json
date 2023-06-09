@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Apple Pie",
+        "prepTime": 10,
+        "cookTime": 30,
+        "equipment": [
+            "Rolling Pin",
+            "Stand Mixer",
+            "Frying Pan"
+        ],
+        "ingredients": [
+            ["Apple", 3, "count"],
+            ["Cinnamon", 1, "Tbsp"],
+            ["Sugar", 5, "Tbsp"],
+            ["Dough", 1 , "count"]
+        ],
+        "instructions": [
+            "Cook Apples in Pan",
+            "Add Cinnamon",
+            "Add Sugar",
+            "Top with Dough with latice pattern",
+            "Bake in 400F oven for 30 min"
+        ]
+
+    },
+    {
+        "name": "Cherry Pie",
+        "prepTime": 10,
+        "cookTime": 30,
+        "equipment": [
+            "Rolling Pin",
+            "Stand Mixer",
+            "Frying Pan"
+        ],
+        "ingredients": [
+            ["Cherry", 12, "count"],
+            ["Sugar", 5, "Tbsp"],
+            ["Dough", 1 , "count"]
+        ],
+        "instructions": [
+            "Cook Cherries in Pan",
+            "Add Sugar",
+            "Top with Dough with latice pattern",
+            "Bake in 400F oven for 30 min"
+        ]
+
+    }
+]
